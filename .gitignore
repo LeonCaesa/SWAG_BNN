@@ -116,4 +116,6 @@ dmypy.json
 # pytorch model
 *.pt
 
-
+# discarding data
+/data/*
+data/*
